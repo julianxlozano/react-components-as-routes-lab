@@ -1,9 +1,10 @@
 import React from 'react';
+import Actors from './Actors';
 
 const Home = () => {
   return (
     <div>
-      {/*{code here}*/}
+      <h1>Home Page</h1>
     </div>
   );
 };
